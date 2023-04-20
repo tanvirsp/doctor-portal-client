@@ -1,0 +1,17 @@
+.service-section {
+    padding: 100px 0;
+}
+
+.section-titile {
+    text-align: center;  
+}
+
+.section-titile h4 {
+    font-size: 22px;
+    color: #2E7D32
+}
+
+.section-titile h3 {
+    font-size: 35px;
+    color: #3A4256
+}

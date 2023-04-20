@@ -1,0 +1,11 @@
+.appointment-card {
+    padding: 25px;
+    border: 1px solid lightgray;
+    margin: 10px 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.appointment-card h4 {
+    color: #2E7D32;
+}

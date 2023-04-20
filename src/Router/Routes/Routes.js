@@ -4,8 +4,8 @@ import Home from "../../Pages/Home/Home/Home";
 import About from "../../Pages/About/About";
 import Contact from "../../Pages/Contact/Contact";
 import Reviews from "../../Pages/Reviews/Reviews";
-import Appointment from "../../Pages/Appointment/Appointment";
 import Login from "../../Pages/Login/Login";
+import Appointment from "../../Pages/Appointment/Appointment/Appointment";
 
 const router = createBrowserRouter([
     {
